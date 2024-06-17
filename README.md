@@ -13,3 +13,5 @@ make sure u have pip install ursina \
 :) \
 fly around and build stuff \
 add more block textures if you want \
+
+![Screenshot 28](https://github.com/zrebarchak/Mirror-Seventeen/blob/main/Screenshot_322.png)
