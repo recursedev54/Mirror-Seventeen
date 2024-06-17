@@ -8,8 +8,8 @@ window.fullscreen = True
 grass_texture = load_texture('assets/tes_block.png')
 stone_texture = load_texture('assets/stonemez.png')
 biome_texture = load_texture('assets/grassmez.png')
-sky_texture = load_texture('assets/depthblue.png')
-arm_texture = load_texture('assets/arm_texture.png')
+sky_texture = load_texture('assets/skygradient.png')
+arm_texture = load_texture('assets/arm4.png')
 
 block_pick = 1
 is_flying = False
