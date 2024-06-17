@@ -1,5 +1,5 @@
 ![Screenshot 28](https://github.com/zrebarchak/MirrorDAWg-2/blob/main/Screenshot_321.png)
-CONTROLS FOR MIRROR 17
+CONTROLS FOR MIRROR 17 n/
 DEBUG MENU TOGGLE: F3
 TOGGLE FLYING: 'p'
 SELECT BLOCK TO PLACE: 1, 2, or 3
