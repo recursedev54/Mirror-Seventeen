@@ -1,4 +1,4 @@
-![Screenshot 28](https://github.com/zrebarchak/MirrorDAWg-2/blob/main/Screenshot_321.png)
+![Screenshot 28](https://github.com/zrebarchak/Mirror-Seventeen/blob/main/not needed for game.png)
 CONTROLS FOR MIRROR 17 \
 DEBUG MENU TOGGLE: F3 \
 TOGGLE FLYING: 'p' \
@@ -14,5 +14,5 @@ make sure u have pip install ursina \
 fly around and build stuff \
 add more block textures if you want \
 
-![Screenshot 28](https://github.com/zrebarchak/Mirror-Seventeen/blob/main/Screenshot_322.png)
+![Screenshot 28](https://github.com/zrebarchak/Mirror-Seventeen/blob/main/not needed for game2.png)
 full script will be 140 lines. It's the only .py, Run MirrorDAWg.py 
