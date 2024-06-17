@@ -7,7 +7,9 @@ MOVE: W A S D SPACE SHIFT \
 PLACE AND BREAK: Right and Left \
 JUMP: Space \
 HOW TO RUN: \
-Install the main .py script. make sure its in a folder with with another folder called "assets" and put all the image texutures in there. but the two .blend files in the main folder, not assets. \
+dwonalod from here or clone the main .py script. make sure its in a folder with with another folder called "assets" and put all the image texutures in there. but the two .blend files in the main folder, not assets. \
 Run the code \
+make sure u have pip install ursina \
+:) \
 fly around and build stuff \
 add more block textures if you want \
