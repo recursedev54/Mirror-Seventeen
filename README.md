@@ -16,3 +16,5 @@ add more block textures if you want \
 
 ![Screenshot 28](https://github.com/zrebarchak/Mirror-Seventeen/blob/main/not%20needed%20for%20game2.png?raw=true)
 full script will be 140 lines. It's the only .py, Run MirrorDAWg.py 
+![Screenshot 28](https://github.com/zrebarchak/Mirror-Seventeen/blob/main/not%20needed%20for%20game3.png?raw=true)
+![Screenshot 28](https://github.com/zrebarchak/Mirror-Seventeen/blob/main/not%20needed%20for%20game4.png?raw=true)
