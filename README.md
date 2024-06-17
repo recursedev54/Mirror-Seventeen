@@ -15,4 +15,4 @@ fly around and build stuff \
 add more block textures if you want \
 
 ![Screenshot 28](https://github.com/zrebarchak/Mirror-Seventeen/blob/main/Screenshot_322.png)
-full script will be 140 lines. It's the only .py, Run MirrorDAWg.py \
+full script will be 140 lines. It's the only .py, Run MirrorDAWg.py 
